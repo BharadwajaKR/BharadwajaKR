@@ -1,6 +1,6 @@
 ## Hi there 👋 Glad to see, you checking my intro page
 
-### experienced  Business Analyst/ Project manager and an aspiring **_DATA ANALYST_**
+### Experienced  Business Analyst/ Project manager and an aspiring **_DATA ANALYST_**
 
 #### currently a student at HyperionDev pursuing a Data science course. 
 
